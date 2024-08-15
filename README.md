@@ -21,6 +21,10 @@ This project is a RESTful API for a social network application that allows users
   - [Technologies Used](#technologies-used)
   - [License](#license)
 
+## Tutorial Video
+
+- Google Drive Link: https://drive.google.com/file/d/18Imax5cD_L955If28NiNA6u68_FLEiu3/view?usp=sharing
+
 ## Installation
 
 1. **Clone the repository**
